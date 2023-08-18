@@ -1,19 +1,14 @@
 /* Write your CSS here */
-.container {
+.app-container {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #1e293b;
-  height: 100vh;
 }
 
-.title {
-  color: #f0bb03;
-  font-family: 'Bree Serif';
-}
-
-.description {
-  color: #ffffff;
-  font-family: 'Bree Serif';
+.html-projects-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
